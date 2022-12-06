@@ -203,3 +203,5 @@ function q_dot = qDot(q,wb,ang,W)
     q_dot = [q_dot1;q_dot2;q_dot3;q_dot4];
 
 end
+
+%This is a new comment
